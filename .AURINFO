@@ -1,0 +1,8 @@
+pkgbase = sejda-console-bin
+pkgname = sejda-console-bin
+pkgver = 1.0.0.M9
+pkgrel = 2
+pkgdesc = "A self-contained CLI for PDF editing/manipulation."
+url = http://www.sejda.org/download/
+license = 'Apache'
+depend = 'java-runtime>=5'
